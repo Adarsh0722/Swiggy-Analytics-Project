@@ -137,20 +137,6 @@ Developed an interactive Power BI dashboard inside Microsoft Fabric to monitor S
 🧾 Rating Count
 
 
-📈 Dashboard Analysis
-
-Top Restaurants by Revenue
-
-State-wise Sales Analysis
-
-Order Trends by Date
-
-Veg vs Non-Veg Performance
-
-Customer Rating Distribution
-
-Revenue Contribution Analysis
-
 📈 Key Insights
 
 Top-performing restaurants contribute a major share of total revenue
