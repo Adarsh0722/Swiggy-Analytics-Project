@@ -2,6 +2,7 @@
 
 End-to-End Modern Data Analytics Project | Microsoft Fabric • SQL • Power BI • Data Warehouse
 
+![Swiggy Analytics](https://github.com/Adarsh0722/Swiggy-Analytics-Project/blob/main/Swiggy%20Analytics.png)
 
 
 🔍 Project Overview
@@ -61,6 +62,8 @@ Enterprise-style ETL Workflow
 
 5. Dates
 
+![Swiggy Analytics](https://github.com/Adarsh0722/Swiggy-Analytics-Project/blob/main/PIPELINES.png)
+
 🏞️ 2. Data Storage using Lakehouse
 
 All raw datasets were stored inside the Microsoft Fabric Lakehouse before transformation and modeling.
@@ -93,6 +96,8 @@ Performed SQL-based transformation and validation processes to prepare analytics
 
 ✔ Performed Validation Checks
 
+![Swiggy Analytics](https://github.com/Adarsh0722/Swiggy-Analytics-Project/blob/main/SQL%20DATA%20CLEANING.png)
+
 🧩 4. Data Warehouse Modeling
 
 Designed a Star Schema Data Model for optimized reporting and analytics performance.
@@ -120,6 +125,8 @@ Better Dashboard Optimization
 
 Industry-standard Warehouse Design
 
+![Swiggy Analytics](https://github.com/Adarsh0722/Swiggy-Analytics-Project/blob/main/MANAGING%20RELATIONSHIPS.png)
+
 📊 5. Power BI Dashboard
 
 Developed an interactive Power BI dashboard inside Microsoft Fabric to monitor Swiggy business performance.
@@ -135,6 +142,8 @@ Developed an interactive Power BI dashboard inside Microsoft Fabric to monitor S
 📈 Average Order Value
 
 🧾 Rating Count
+
+![Swiggy Analytics](https://github.com/Adarsh0722/Swiggy-Analytics-Project/blob/main/DASHBOARD.png)
 
 
 📈 Key Insights
